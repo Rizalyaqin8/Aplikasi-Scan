@@ -1,0 +1,3 @@
+- [x] Modify .content in assets/css/style.css to change position from absolute to relative and use margins for positioning to enable scrolling.
+- [x] Update media queries for responsive design to use margins instead of absolute positioning.
+- [x] Test the dashboard page to ensure scrolling works properly on different screen sizes.
